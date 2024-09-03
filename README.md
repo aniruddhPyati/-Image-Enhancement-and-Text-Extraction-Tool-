@@ -9,6 +9,6 @@
 
  How to upload image in code:
 
- Under the line-
+ Under the line:
  img= cv2.imread("ENTER YOUR IMAGE PATH HERE")
 
