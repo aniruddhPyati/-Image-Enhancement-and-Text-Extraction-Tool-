@@ -1,1 +1,1 @@
-# -Image-Enhancement-and-Text-Extraction-Tool-
+# Image Enhancement and Text Extraction Tool
